@@ -1,0 +1,45 @@
+{
+    "name": "Contador App Vue",
+    "short_name": "Contador Vue",
+    "description": "Contador app vue es una aplicacion apara ocntar los clicks que se dan",
+    "background_color": "#35495e",
+    "theme_color": "#41b883",
+    "start_url": "./?umt_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-CO",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "./img/favicon.png",
+            "sizes": "16x16",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/image32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/image128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/image256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/image512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/image1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        }
+    ]
+
+}
